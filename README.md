@@ -1,7 +1,8 @@
 # Desafio-Github
 
-projeto GIT e GITHUB - DIO
+Repositorio criado para o projeto GIT e GITHUB - DIO
 
 ##Links uteis
 
-[sintaxe basica markdown] (https://www.markdownguide.org/basic-syntax/)
+[sintaxe basica markdown](https://www.markdownguide.org/basic-syntax/)
+
