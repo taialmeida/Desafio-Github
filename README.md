@@ -33,12 +33,15 @@ link para download:
 
 >**pyautogui.position()** - este comando é usando para descobrir em que local da tela o ponteiro do mouse esta, para utiliza-lo é preciso usar o comando **time.sleep(_numero_)** antes do codigo para que voce consiga mover o ponteiro onde deseja que o robo clique. 
 
->**pyperclip.copy(" ")** - copia caracteres
+>**pyperclip.copy(" ")** - copia caracteres 
 
 >**pyautogui.press(" ")** - pressiona teclas
 
 >**time.sleep(_numero_)** - delay no codigo
 
+>**texto= f""" """*** insere um texto - com pandas
+
+>**import pandas as pd** - pd é uma abreviacao
 
 
 
